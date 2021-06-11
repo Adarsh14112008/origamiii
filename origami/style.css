@@ -1,0 +1,32 @@
+.h1{
+    display: flex;
+    background-color:black ; 
+    color:blanchedalmond;
+    padding-left: 500px;
+}
+a:link{
+    color :rgb(141, 199, 29);
+}
+.a1 {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 50px;
+    background-color:blanchedalmond;
+    border:solid ;     
+}
+.a1:hover{
+   transform: scale(1.1);
+}
+.a2:hover{
+    transform: scale(1.1);
+ }
+
+.a2 {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 50px;
+    background-color:blanchedalmond;
+    border:solid ;
+}
+
+ 
